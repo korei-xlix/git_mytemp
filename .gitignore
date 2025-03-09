@@ -1,0 +1,16 @@
+### gitignore file #####################
+#     subdirectory/file.md  ファイル直接指定
+#     subdirectory/         フォルダ指定
+#     *.old                 ワイルドカード指定
+########################################
+
+### ignore files #######################
+
+
+
+### not ignore file (comment out) ######
+
+
+
+
+### end ignore file ####################
