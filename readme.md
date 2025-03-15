@@ -15,10 +15,14 @@
 * [readme.md](./readme.md)
   * [利用にあたって (Important notices for use)](#利用にあたっての注意事項--important-notices-for-use)
 
-* マークダウン
-  * [マークダウン](/markdown/git_markdown.md)
+* git操作
+  * [gitコントロール](./git_ctrl/git_ctrl.md)
+  * [commit編集仕様](./git_ctrl/edit_commit.md)
 
-* [readmeテンプレート](/__template/readme_template.md)
+* マークダウン
+  * [マークダウン](./markdown/git_markdown.md)
+
+* [readmeテンプレート](./__template/readme_template.md)
   
 
 
