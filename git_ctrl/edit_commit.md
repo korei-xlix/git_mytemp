@@ -12,8 +12,8 @@
 
 ## 目次 / Table of Contents
 
-* [readme.md](../readme.md)
-  * [利用にあたって (Important notices for use)](../readme.md#利用にあたっての注意事項--important-notices-for-use)
+* [readme.md](/readme.md)
+  * [利用にあたって (Important notices for use)](/readme.md#利用にあたっての注意事項--important-notices-for-use)
 
 * [作業commit](#作業commit)
 * [更新commit](#更新commit)
@@ -62,7 +62,7 @@ mergeコミットの場合、gitが作成したコメントはそのまま残す
 
 ***
 ***
-[[トップへ戻る]](../readme.md)
+[[トップへ戻る]](/readme.md)
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

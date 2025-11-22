@@ -12,8 +12,8 @@
 
 ## 目次 / Table of Contents
 
-* [readme.md](../readme.md)
-  * [利用にあたって (Important notices for use)](../readme.md#利用にあたっての注意事項--important-notices-for-use)
+* [readme.md](/readme.md)
+  * [利用にあたって (Important notices for use)](/readme.md#利用にあたっての注意事項--important-notices-for-use)
 
 * [gitのラベル運用](#gitのラベル運用)
 
@@ -29,7 +29,7 @@
   * [Ul 箇条書きリスト](#ul-箇条書きリスト)
   * [Ol 番号付きリスト](#ol-番号付きリスト)
   * [強調](#強調)
-  * [Link リンク](#link-リンク)
+  * [URLリンク](#url-リンク)
   * [外部参照リンク](#外部参照リンク)
   * [Images 画像](#images-画像)
   * [Table 表](#table-表)
@@ -273,7 +273,7 @@ hoge
   
 
 
-### Link リンク
+### URL リンク
 
 [表示文字](URL)でリンクに変換  
   
@@ -332,7 +332,7 @@ URLが長くて読みづらくなる場合や同じリンクを何度も使用�
 
 ***
 ***
-[[トップへ戻る]](./readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

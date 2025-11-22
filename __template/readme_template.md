@@ -14,10 +14,10 @@
 
 ## 目次 / Table of Contents
 
-* [readme.md](./readme.md)  ***  
-  * [利用にあたって (Important notices for use)](./readme#利用にあたっての注意事項--important-notices-for-use)  ***  
-  * [謝辞 (Acknowledgment)](./readme##謝辞--acknowledgment)  ***  
-  * [参考 (Material)](./readme##参考--material)  ***  
+* [readme.md](/readme.md)  ***  
+  * [利用にあたって (Important notices for use)](/readme#利用にあたっての注意事項--important-notices-for-use)  ***  
+  * [謝辞 (Acknowledgment)](#謝辞--acknowledgment)  ***  
+  * [参考 (Material)](#参考--material)  ***  
 
 * [項目1（Item 1）](#項目1--item-1)
 
@@ -161,9 +161,9 @@
 
 ***
 ***
-[[トップへ戻る]](./readme.md)　/
-[[サブ1]](./sub1/readme.md) /
-[[サブ2]](./sub2/readme.md)  
+[[トップへ戻る]](/readme.md)　/
+[[サブ1]](/sub1/readme.md) /
+[[サブ2]](/sub2/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
