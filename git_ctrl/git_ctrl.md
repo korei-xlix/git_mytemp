@@ -13,8 +13,8 @@
 
 ## 目次 / Table of Contents
 
-* [readme.md](../readme.md)
-  * [利用にあたって (Important notices for use)](../readme.md#利用にあたっての注意事項--important-notices-for-use)
+* [readme.md](/readme.md)
+  * [利用にあたって (Important notices for use)](/readme.md#利用にあたっての注意事項--important-notices-for-use)
 
 * [環境構築](#環境構築)
   * [gitの環境設定 (git config)](#gitの環境設定-git-config)
@@ -1133,7 +1133,7 @@ Identity added
 
 ***
 ***
-[[トップへ戻る]](../readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  

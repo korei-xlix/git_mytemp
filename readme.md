@@ -12,17 +12,17 @@
 
 ## 目次 / Table of Contents
 
-* [readme.md](./readme.md)
-  * [利用にあたって (Important notices for use)](#利用にあたっての注意事項--important-notices-for-use)
+* [readme.md](/readme.md)
+  * [利用にあたって (Important notices for use)](/readme.md#利用にあたっての注意事項--important-notices-for-use)
 
 * git操作
-  * [gitコントロール](./git_ctrl/git_ctrl.md)
-  * [commit編集仕様](./git_ctrl/edit_commit.md)
+  * [gitコントロール](/git_ctrl/git_ctrl.md)
+  * [commit編集仕様](/git_ctrl/edit_commit.md)
 
 * マークダウン
-  * [マークダウン](./markdown/git_markdown.md)
+  * [マークダウン](/markdown/git_markdown.md)
 
-* [readmeテンプレート](./__template/readme_template.md)
+* [readmeテンプレート](/__template/readme_template.md)
   
 
 
@@ -69,7 +69,7 @@
 
 ***
 ***
-[[トップへ戻る]](./readme.md)  
+[[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
